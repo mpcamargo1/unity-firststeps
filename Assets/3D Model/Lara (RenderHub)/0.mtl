@@ -1,0 +1,344 @@
+# Blender MTL File: 'None'
+# Material Count: 27
+
+newmtl 1_glove_0.1_12_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.453727 0.451393 0.576994
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x002_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x002_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x002_diffuse.png
+
+newmtl 1_mesh001_0.1_12_16_head_head_jaw
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.437728 0.586897 0.435116
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x023_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x023_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x023_diffuse.png
+
+newmtl 1_mesh007_0.1_12_16_knee_left_leg_left_knee
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.649318 0.717493 0.411373
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x021_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x021_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x021_diffuse.png
+
+newmtl 1_mesh009_0.1_12_16_knee_right_leg_right_knee
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.606704 0.721348 0.733213
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x019_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x019_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x019_diffuse.png
+
+newmtl 1_mesh010_0.1_12_16_foot_left_leg_left_ankle
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.516356 0.659537 0.507960
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x018_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x018_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x018_diffuse.png
+
+newmtl 1_mesh011_0.3_12_16_foot_right_leg_right_ankle
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.559149 0.573515 0.799979
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x022_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x022_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x022_diffuse.png
+
+newmtl 1_mesh018_0.1_12_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.646226 0.504641 0.777060
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x016_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x016_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x016_diffuse.png
+
+newmtl 2_+@tra_hair.ribbon_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.663894 0.440290 0.684269
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\ribbon_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\ribbon_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\ribbon_diffuse.png
+
+newmtl 2_fingers_0.1_16_16
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.786868 0.691290 0.444477
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x015_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x015_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x015_diffuse.png
+
+newmtl 2_mesh002_0.1_0_0_body_upper_breast_left_breast_right
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.473872 0.404638 0.609675
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x017_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x017_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x017_diffuse.png
+
+newmtl 2_mesh005_0.1_0_0_hand_left_arm_left_wrist
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.409065 0.423722 0.645851
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x003_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x003_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x003_diffuse.png
+
+newmtl 2_mesh015_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.662316 0.728422 0.611336
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x014_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x014_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x014_diffuse.png
+
+newmtl 2_mesh016_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.726136 0.415104 0.784714
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x007_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x007_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x007_diffuse.png
+
+newmtl 2_mesh020_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.408761 0.610283 0.597538
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x007_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x007_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x007_diffuse.png
+
+newmtl 4_+@tra_hair.hair1_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.604277 0.410842 0.475013
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\hair_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\hair_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\hair_diffuse.png
+
+newmtl 4_mesh008_0.6_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.432705 0.506329 0.632140
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x020_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x020_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x020_diffuse.png
+
+newmtl 5_mesh019_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.531495 0.766250 0.458557
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x008_diffuse.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x008_diffuse.png
+
+newmtl 5_mesh023_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.461676 0.552043 0.626856
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x009_diffuse.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x009_diffuse.png
+
+newmtl 6_+@GRAPE_TRA.+TRA-Grapple.grap_0.6_0_0.001
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.512125 0.468044 0.721004
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\grapple_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\grapple_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\grapple_diffuse.png
+
+newmtl 6_+@tra_hair.hair2_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.569668 0.796494 0.611012
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\hair_diffuse.png
+map_Bump D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\hair_bump.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\hair_diffuse.png
+
+newmtl 7_mesh006_0.1_0_0_hand_right_arm_right_wrist
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.574918 0.531846 0.402466
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x004_diffuse.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x004_diffuse.png
+
+newmtl 7_mesh021_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.661890 0.690225 0.410059
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x006_diffuse.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x006_diffuse.png
+
+newmtl 7_mesh024_0.1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.512865 0.642393 0.485153
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\x010_diffuse.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\x010_diffuse.png
+
+newmtl handgunhandleft
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.732566 0.720133 0.468634
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\handgun_diffuse.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\handgun_diffuse.png
+
+newmtl handgunhandright
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.558716 0.747806 0.440803
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\handgun_diffuse.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\handgun_diffuse.png
+
+newmtl handgunholsterleft
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.656484 0.688392 0.588606
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\handgun_diffuse.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\handgun_diffuse.png
+
+newmtl handgunholsterright
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.648371 0.467807 0.497880
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\XPS Working\Lara Croft Anniversary\handgun_diffuse.png
+map_d D:\\Dropbox (Personal)\\XPS Working\\Lara Croft Anniversary\\handgun_diffuse.png
